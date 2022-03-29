@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Bernardomennndes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bernardomennndes&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=2px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardomennndes&layout=compact&langs_count=7&theme=swift&border_radius=2px"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Bernardomennndes&show_icons=true&theme=great-gatsby&border_color=000&border_radius=2px&text_color=ddd&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardomennndes&layout=compact&langs_count=7&theme=great-gatsby&text_color=ddd&border_color=000&border_radius=2px"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Bernardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
